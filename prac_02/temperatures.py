@@ -2,7 +2,7 @@
 
 # Convert Celsius to Fahrenheit
 def celsius_to_fahrenheit(celsius):
-    return (celsius * 9/5) + 32
+    return (celsius * 9/5) +32
 
 # Convert Fahrenheit to Celsius
 def fahrenheit_to_celsius(fahrenheit):
