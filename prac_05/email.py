@@ -3,7 +3,6 @@ CP1404 emails
 Estimate: 10 min
 Actual: 22 min
 """
-
 name_to_email = {}
 email = input("Email: ")
 while email != '':
